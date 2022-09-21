@@ -26,5 +26,5 @@ I am a strongly motivated to become a manual tester.
 ## MY REPORT FOR 
 * [Report PDF](https://drive.google.com/file/d/19TClGUIsl6CoN5F4GbvtYgWZ9jnUq8lT/view?usp=sharing)
 * [Report PDF](https://drive.google.com/file/d/1MV7RPOCOdHykG1wUdUNAYCrX2BlMcDya/view?usp=sharing)
-* [Report Excell](https://drive.google.com/file/d/1cp4C1-Iexk9dGkWRx0h28shI0CSzQEzx/view?usp=sharing)
-* [Report Excell](https://drive.google.com/file/d/1Sf9dtrwBf9YtiM-q0ZKxjXKbxVFIf0AW/view?usp=sharing)
+* [Report Excell](https://docs.google.com/spreadsheets/d/1PSNUBvRhRXUveWS2zi6LtNyWiHlczaFH/edit?usp=sharing&ouid=114808604212510673926&rtpof=true&sd=true)
+* [Report Excell](https://docs.google.com/spreadsheets/d/1Y_Q2c4niTH6YMYr6EpREcfKA8nPOJFUC/edit?usp=sharing&ouid=114808604212510673926&rtpof=true&sd=true)
