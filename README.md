@@ -1,6 +1,6 @@
 # Portfolio-tester-manualny # PORTFOLIO
 ## ABOUT ME
-I am a strongly motivated person motivated to become manual tester.
+I am a strongly motivated to become a manual tester.
 ## TOOLS
 * Jira
 * TestLink
@@ -26,5 +26,5 @@ I am a strongly motivated person motivated to become manual tester.
 ## MY REPORT FOR 
 * [Report PDF](https://drive.google.com/file/d/19TClGUIsl6CoN5F4GbvtYgWZ9jnUq8lT/view?usp=sharing)
 * [Report PDF](https://drive.google.com/file/d/1MV7RPOCOdHykG1wUdUNAYCrX2BlMcDya/view?usp=sharing)
-* [Report Excell](https://docs.google.com/spreadsheets/d/1ZpUt6sYH5WbgEI8iGTkcIjo8zlacHNw5/edit?usp=sharing&ouid=114808604212510673926&rtpof=true&sd=true)
-* [Report Excell](https://docs.google.com/spreadsheets/d/1N5Jx9td0PQK_jODMkVRduOQpBh1b3zeJ/edit?usp=sharing&ouid=114808604212510673926&rtpof=true&sd=true)
+* [Report Excell](https://drive.google.com/file/d/1cp4C1-Iexk9dGkWRx0h28shI0CSzQEzx/view?usp=sharing)
+* [Report Excell](https://drive.google.com/file/d/1Sf9dtrwBf9YtiM-q0ZKxjXKbxVFIf0AW/view?usp=sharing)
